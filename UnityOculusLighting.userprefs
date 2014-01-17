@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\RoomSelected.js">
+    <Files>
+      <File FileName="Assets\scripts\Menu2.js" Line="19" Column="7" />
+      <File FileName="Assets\scripts\Menu.js" Line="19" Column="7" />
+      <File FileName="Assets\scripts\headSelected.js" Line="28" Column="2" />
+      <File FileName="Assets\scripts\femaleSelected.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\maleSelected.js" Line="16" Column="24" />
+      <File FileName="Assets\scripts\SpotSelected.js" Line="28" Column="3" />
+      <File FileName="Assets\scripts\RoomSelected.js" Line="43" Column="43" />
+      <File FileName="Assets\scripts\lightRonoff.js" Line="20" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
